@@ -1,0 +1,14 @@
+{
+  "name": "mywebnerd",
+  "version": "1.0.0",
+  "description": "portfolio Webside",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Mywebnerd.one",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}

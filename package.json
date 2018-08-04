@@ -9,6 +9,7 @@
   "author": "Mywebnerd.one",
   "license": "ISC",
   "dependencies": {
+    "font-awesome-5-css": "^5.0.13",
     "node-sass": "^4.9.2"
   }
 }
